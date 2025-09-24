@@ -4,9 +4,10 @@ This intends to provide a starter guide & references for various skips, strats, 
 
 Unless otherwise specified, items listed here are legal for use in No Major Glitches speedruns.
 
-> [!IMPORTANT] To navigate this file easier, please use the automatic Table of Contents in the title bar.
+> [!IMPORTANT]
+> To navigate this file easier, please use the automatic Table of Contents in the title bar.
 
-> [!TIP] Work in Progress!
+> [!TIP]
 > Please note this document is a work in progress - if there is a tech or skip you wish to contribute, you can help by posting a video with visible input display showcasing the tech.
 
 ## Terms used
@@ -38,7 +39,9 @@ Fastest, but very precise.
 
 #### 4CS - Bind Dash Refresh
 
-> [!WARNING] Not currently allowed in NMG!
+> [!WARNING]
+> Not currently allowed in NMG!
+>
 > See [Bind Dash Refresh](#bind-dash-refresh).
 
 ...
@@ -52,7 +55,6 @@ If using this skip, you may want to gather soul using this hidden room before th
 Break the explosive nodes above Fourth Chorus - they remain active throughout the fight.
 
 ### Beastfly Skip
-
 
 ...
 
@@ -89,8 +91,6 @@ You gain a significant amount of height as you lunge forwards. [Video](/media/vi
 > [!IMPORTANT]
 > If you release while descending, you will get a version of the attack that gives you less height. _You will keep getting this worse version until you do a grounded needlestrike or save&quit_.
 
-
-
 ### Needle Cancels
 
 > Attack -> back -> forward -> cast.
@@ -101,7 +101,9 @@ Causes skills like Silk Spear to come out up to 0.2s earlier.
 
 ### Bind Dash Refresh
 
-> [!WARNING] Not currently allowed in NMG!
+> [!WARNING]
+> Not currently allowed in NMG!
+>
 > This item is subject to an ongoing vote - see the Discord for more details.
 
 > Bind -> Buffered Dash.
@@ -110,7 +112,9 @@ Buffering a dash input allows you to dash even if you have exhausted your midair
 
 ### Float Sprint
 
-> [!WARNING] Not currently allowed in NMG!
+> [!WARNING]
+> Not currently allowed in NMG!
+>
 > This item is subject to an ongoing vote - see the Discord for more details.
 
 > Float -> Cancel float & immediately dash
@@ -119,7 +123,9 @@ Allows you to airdash without sprint.
 
 ### Triple Jump
 
-> [!WARNING] Not currently allowed in NMG!
+> [!WARNING]
+> Not currently allowed in NMG!
+>
 > This item is subject to an ongoing vote - see the Discord for more details.
 
 Inputting wings at a specific time after pogoing, dependent on crest, gives 2 wings refreshes instead of one.
@@ -140,4 +146,3 @@ To solve the Cogworks dreamer puzzle, hit the segments the corresponding number 
 0 1 1 1
 1 1 0 2
 ```
-

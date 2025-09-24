@@ -1,6 +1,6 @@
 # Setup Guides
 
-> [!TIP] Under Construction!
+> [!TIP]
 > Please note that much of this process is subject to rapid change, and as such this document may be out of date. For help, you can ask in #ss-tech-support in the Discord.
 
 ## Installing BepInEx & DebugMod
@@ -25,10 +25,10 @@ This method adds a separate game to Steam which will always launch with BepInEx.
 
 ### Launching unmodded for runs: All Platforms
 
-> [!TIP] Under Construction!
+> [!TIP]
 > We are currently working on an easier method for other platforms. In the meantime, you can create a second install using whichever method works for your platform 
 
 ## Livesplit
 
-> [!TIP] Under Construction!
+> [!TIP]
 > This process is due to change in the coming days. In the meantime, see the pins of #ss-tech-support in the discord.
