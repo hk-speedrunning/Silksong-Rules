@@ -12,10 +12,10 @@
 - Video evidence must show the Title Screen either at the start of the run, or at a timestamp given in the run description.
   - The Title Screen must be clearly visible, with a legible version number.
   - IL runs may omit the timestamp, but must still show the Title Screen.
-- Video evidence is expected to be of a watchable quality, without frequent or extensive frame drops.
+- Video evidence must be of a watchable quality, without frequent or extensive frame drops.
 - Game audio must be present (sound necessary, music optional) and game sounds should be audible over any background noise (voice, music etc.) at all times.
   - Runs will be rejected at the verifier's discretion if listening clearly to the game sounds requires uncomfortable levels of background noise.
-- HUD elements must be clearly visible at all times. This includes the soul meter, masks, and geo and essence counts. Where required for verification, there must be at least one clear frame of the Title Screen where the patch number and modding API text would be seen ([visual guide](https://github.com/hk-speedrunning/HK-Rules/blob/main/video-guidelines.md)). Runs will be rejected at the verifier's discretion if significant amounts of the active portion of the game window are covered.
+- HUD elements must be clearly visible at all times. This includes the silk spool, masks, and rosary & beast shard counts. Where required for verification, there must be at least one clear frame of the Title Screen where the patch number and modding API text would be seen ([visual guide](https://github.com/hk-speedrunning/HK-Rules/blob/main/video-guidelines.md)). Runs will be rejected at the verifier's discretion if significant amounts of the active portion of the game window are covered.
 
 ### Breaks
 
@@ -48,7 +48,7 @@ The following categories are eligible for breaks (all thresholds given are Loadl
 
 ### Game modifications
 
-> Verify whether we need any more modifications - we should have CameraShakeModifier by default. Minisavestates may be added once it exists - it _may_ make sense to distribute as a BepInEx plugin not dependent on the Silksong coremod once that modding framework exists.
+> Minisavestates may be added once it exists - it _may_ make sense to distribute as a BepInEx plugin not dependent on the Silksong coremod once that modding framework exists.
 
 - Game modifications, including BepInEx, are banned.
 
@@ -56,9 +56,6 @@ The following categories are eligible for breaks (all thresholds given are Loadl
 
 > Verify these rules are necessary
 
-- The following values in _[game location]/[hollow_knight_Data]/Config.ini_ may be edited:
-  - **FrameRateCap**: May be set to any value of at least 50.
-  - **CameraShakeMultiplier**: May be set to any value. Note: Gameplay must still be of watchable quality so putting the multiplier above 1 or below -1 may result in a rejection.
 - Using in-game Vsync to limit framerate is allowed so long as the target monitor's refresh rate remains consistent during the run.
 - If either either Vsync or FrameRateCap are toggled during the run, you must have a clearly visible FPS display in your recording.
 
@@ -69,7 +66,6 @@ The following categories are eligible for breaks (all thresholds given are Loadl
 - Using a third-party program to limit framerate is allowed so long as the target framerate is 50fps or above and the cap is not modified or disabled during the run.
 - Macros and turbo functions are not allowed, with the below exceptions:
   - "SOCD cleaners", used to adjust the behaviour of overlapping left+right inputs (see [socd_cleaner.exe](https://github.com/valignatev/socd/releases/download/0.0.8/socd_cleaner.exe))
-  - Macros used to map mouse inputs 1-to-1 to keyboard inputs (see [blue.exe](https://github.com/hk-speedrunning/HK-Resources/raw/main/External%20Tools/Blue/blue.exe)) and vice versa (see [KeyboardToClick.ahk](https://github.com/hk-speedrunning/HK-Resources/raw/main/External%20Tools/KeyboardToClick/KeyboardToClick.ahk))
   - Analog remappers used to bind keyboard keys to a virtual joystick.
 - Each player input can be mapped to a maximum of one game input. Multiple player inputs can all be mapped to the same game input.
   - Binding an action to the scroll wheel or to the analog stick to allow turbo-like functionality is banned.
@@ -81,16 +77,4 @@ The following categories are eligible for breaks (all thresholds given are Loadl
 - Entering menus for the sole purpose of pausing the timer is not allowed.
 - Force exiting the game (Alt-F4) is only allowed when game menus are permanently inaccessible.
 - Inducing lag with Print Screen, moving the game window or any other method is not allowed.
-- Individual level runs may not make use of any advantage from setting up on a different patch from the run itself.
-  - For example, a pantheon IL (on 1.4+) may not set up on 1.0.x.x to obtain 2 notch Quick Slash and Flukenest.
-- The game patch may not be changed at any point during a run.
-
-## Retiming
-
-> Copied in but maybe not necessary? do inf loads still happen on 1.5, and if not then can we assume Silksong will match this behaviour?
-
-- Infinite Loads into The Hollow Knight will have any time between force quitting the game and re-entering the load removed provided the following conditions hold:
-  - Health on re-entry is unchanged from the original value.
-  - Soul on re-entry is unchanged or less than the original value.
-  - No other objective is completed or benefit is gained, up to the verifier’s discretion. In particular, any difference from initial geo values must also not provide any benefit gained.
-  - The fight is re-entered quickly. Excessive breaks before returning to the fight risk invalidation.
+<!-- TODO: IL rule once relevant -->

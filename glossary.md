@@ -4,22 +4,39 @@ This intends to provide a starter guide & references for various skips, strats, 
 
 Unless otherwise specified, items listed here are legal for use in No Major Glitches speedruns.
 
-To navigate this file easier, please use the automatic Table of Contents in the title bar.
+> [!IMPORTANT] To navigate this file easier, please use the automatic Table of Contents in the title bar.
+
+> [!TIP] Work in Progress!
+> Please note this document is a work in progress - if there is a tech or skip you wish to contribute, you can help by posting a video with visible input display showcasing the tech.
 
 ## Terms used
 
 - Input buffering: Pressing some inputs before they are actionable will cause the game to queue the input until the first frame it is actionable. Releasing the button cancels the buffered input.
-- Frame perfect / First frame: Generally this means first _physics_ frame, ie 1/50th of a second.
+- Frame perfect / First frame: Generally this means first _physics_ frame, ie 1/50th of a second. It may also refer to the frame of an animation.
 
 ## Skips
 
 Skips are individual strategies specific to the room they are used in. This can include specific descriptions of uses of more general tech.
 
-### Fourth Chorus Skip - Bindless
+### Bell Beast Phase Skip
 
 ...
 
-### Fourth Chorus Skip - Bind Dash Refresh
+### Fourth Chorus Skip
+
+Boss sucks? Hit Da Bricks
+
+#### 4CS - Bindless
+
+Fastest, but very precise.
+
+<!-- TODO: insert video -->
+
+#### 4CS - Classic
+
+`Sprintjump - buffered float - dash - bind - buffered float`
+
+#### 4CS - Bind Dash Refresh
 
 > [!WARNING] Not currently allowed in NMG!
 > See [Bind Dash Refresh](#bind-dash-refresh).
@@ -30,24 +47,49 @@ If using this skip, you may want to gather soul using this hidden room before th
 
 ...
 
+### Fourth Chorus Quick Kill
+
+Break the explosive nodes above Fourth Chorus - they remain active throughout the fight.
+
+### Beastfly Skip
+
+
+...
+
+### Sister Splinter Skip
+
+...
+
 ## Tech
 
 Tech are strategies that can be used in a variety of places across the run.
 
-### Beast Boost
+### Basic Movement
 
-> Using Beast Crest, Release Great Slash.
+#### Pogo Endlag Cancel
 
-You gain a little more height. Can be used as an extra boost.
-
-> [!IMPORTANT] Patch differences!
-> On Release Patch, this tech is bugged - if you release while descending, you will not get the height, and will enter a state where you must great slash while _grounded_ before being able to get the height again.
-
-### Pogo Endlag Cancel
-
-> Jump -> Attack -> Neutral before hitting the ground.
+> Jump -> Attack -> Neutral (no directional input) before hitting the ground.
 
 Removes end lag from the Hunter's Crest pogo, allowing moving early.
+
+#### Sprinthops
+
+> Sprint + jump on same frame. Repeat.
+
+#### Wavedashes
+
+> Sprint -> Jump -> immediately pogo endlag cancel -> Sprint. Repeat
+
+### Beast Boost
+
+> Using Beast Crest, Release Needlestrike while ascending.
+
+You gain a significant amount of height as you lunge forwards. [Video](/media/videos/Beast_Boost.mp4)  <!-- TODO: change to github embed -->
+
+> [!IMPORTANT]
+> If you release while descending, you will get a version of the attack that gives you less height. _You will keep getting this worse version until you do a grounded needlestrike or save&quit_.
+
+
 
 ### Needle Cancels
 
@@ -55,20 +97,38 @@ Removes end lag from the Hunter's Crest pogo, allowing moving early.
 
 Causes skills like Silk Spear to come out up to 0.2s earlier.
 
+### Dash Cancels
+
 ### Bind Dash Refresh
 
 > [!WARNING] Not currently allowed in NMG!
-> This item is subject to an upcoming vote - see the Discord for more details.
+> This item is subject to an ongoing vote - see the Discord for more details.
 
-> Dash -> Buffered Bind.
+> Bind -> Buffered Dash.
 
-Refreshes midair dash _only_ if the input is buffered.
+Buffering a dash input allows you to dash even if you have exhausted your midair dash.
+
+### Float Sprint
+
+> [!WARNING] Not currently allowed in NMG!
+> This item is subject to an ongoing vote - see the Discord for more details.
+
+> Float -> Cancel float & immediately dash
+
+Allows you to airdash without sprint.
+
+### Triple Jump
+
+> [!WARNING] Not currently allowed in NMG!
+> This item is subject to an ongoing vote - see the Discord for more details.
+
+Inputting wings at a specific time after pogoing, dependent on crest, gives 2 wings refreshes instead of one.
 
 ## Documentation
 
 ### The Mist
 
-The Mist is intended to be navigated by playing Needolin to fireflies, which show the correct exit to proceed through. We can use various aspects of the Mist's progression to our advantage; see [this doc](https://docs.google.com/document/d/1wGYxE_mDfZ_Qtbs6cvcTZggTFPYTBJ9Rijno0VZkNdA/view) for more information.
+The Mist is intended to be navigated by playing Needolin to butterflies, which show the correct exit to proceed through. We can use various aspects of the Mist's progression to our advantage; see [this doc](https://docs.google.com/document/d/1wGYxE_mDfZ_Qtbs6cvcTZggTFPYTBJ9Rijno0VZkNdA/view) for more information.
 
 ### Cogworks Dreamer
 
