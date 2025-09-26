@@ -13,7 +13,7 @@ BepInEx is the modloader we use for Silksong mods.
 
 - Download the x64 .zip file for your OS from [this version](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.3).
 
-### Launching unmodded for runs: Steam
+#### Launching unmodded for runs: Steam
 
 This method adds a separate game to Steam which will always launch with BepInEx.
 
@@ -23,7 +23,7 @@ This method adds a separate game to Steam which will always launch with BepInEx.
   - You can find your game files by right clicking on `Hollow Knight: Silksong` & pressing `Manage > Browse Local Files`.
 - Rename your duplicate game - this one will launch modded.
 
-### Launching unmodded for runs: All Platforms
+#### Launching unmodded for runs: All Platforms
 
 > [!TIP]
 > We are currently working on an easier method for other platforms. In the meantime, you can create a second install using whichever method works for your platform 
