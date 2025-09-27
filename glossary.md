@@ -39,11 +39,6 @@ Fastest, but very precise.
 
 #### 4CS - Bind Dash Refresh
 
-> [!WARNING]
-> Not currently allowed in NMG!
->
-> See [Bind Dash Refresh](#bind-dash-refresh).
-
 ...
 
 If using this skip, you may want to gather soul using this hidden room before the boss, unless using it as a backup to Bindless.
@@ -112,10 +107,8 @@ Buffering a dash input allows you to dash even if you have exhausted your midair
 
 ### Float Sprint
 
-> [!WARNING]
-> Not currently allowed in NMG!
->
-> This item is subject to an ongoing vote - see the Discord for more details.
+> [!CAUTION]
+> Not allowed in NMG!
 
 > Float -> Cancel float & immediately dash
 
@@ -123,12 +116,19 @@ Allows you to airdash without sprint.
 
 ### Triple Jump
 
-> [!WARNING]
-> Not currently allowed in NMG!
->
-> This item is subject to an ongoing vote - see the Discord for more details.
+> [!CAUTION]
+> Not allowed in NMG!
 
 Inputting wings at a specific time after pogoing, dependent on crest, gives 2 wings refreshes instead of one.
+
+### Silkspear Storage Trobbio Skip
+
+> [!CAUTION]
+> Not allowed in NMG!
+
+Get hit by a 'hard' hazard on a specific frame of the Silkspear animation. Walk _(todo: required?)_ to the block & stand around x=46.00, then cast again. Block gets hit the wrong way.
+
+<!-- TODO: example + extract silkspear storage to tech -->
 
 ## Documentation
 

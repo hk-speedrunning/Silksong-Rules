@@ -19,3 +19,9 @@ Any accidentally performed major glitch that does not save time may be allowed b
 - [Float Sprint](/glossary.md#float-sprint)
 - Volt Vessel Skips
   - NB: this will be revisited at a later time.
+- [Silkspear Storage](/glossary.md#silkspear-storage-trobbio-skip)
+- Any glitch that results in going Out of Bounds.
+- Main Menu Storage
+- Room Dupes
+- Any glitch that results in invincibility
+- Any glitch that results in enemy AI becoming unresponsive

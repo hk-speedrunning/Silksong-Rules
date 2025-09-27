@@ -15,6 +15,7 @@
 - The following are summarized in the [visual guide](/video_guidelines.md):
   - HUD elements must be clearly visible at all times. This includes the silk spool, masks, and rosary & beast shard counts (when present).
   - There must be at least one clear frame of the Title Screen where the patch number is clearly readable.
+  - If using the Load Remover, Livesplit must be clearly visible at all times.
   - Runs will be rejected at the verifier's discretion if significant amounts of the active portion of the game window are covered.
 
 ### Breaks
@@ -30,8 +31,8 @@ Runs that enter Act 3 may take the following number of breaks:
 Breaks must be taken as follows:
 
 - Breaks must be taken on the File Select screen on the menu:
-    - Pause the timer after you have hit the button to open the file select menu.
-    - To end the break, select a file then hit unpause.
+  - Pause the timer after you have hit the button to open the file select menu.
+  - To end the break, select a file then hit unpause.
 - Verifiers may reject your run if they determine it to be abusing the break system.
 - The recording must be left on the file select screen - switching to a different scene will result in a rejection.
 <!-- TODO: move to Verifier Guide
