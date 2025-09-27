@@ -96,11 +96,6 @@ Causes skills like Silk Spear to come out up to 0.2s earlier.
 
 ### Bind Dash Refresh
 
-> [!WARNING]
-> Not currently allowed in NMG!
->
-> This item is subject to an ongoing vote - see the Discord for more details.
-
 > Bind -> Buffered Dash.
 
 Buffering a dash input allows you to dash even if you have exhausted your midair dash.
