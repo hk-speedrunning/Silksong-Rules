@@ -25,7 +25,9 @@ Skips are individual strategies specific to the room they are used in. This can 
 
 ### Fourth Chorus Skip
 
-Boss sucks? Hit Da Bricks
+Boss sucks? Hit Da Bricks.
+
+If using a version that requires Binding, note there is a hidden room filled with silk before the fight.
 
 #### 4CS - Bindless
 
@@ -35,19 +37,27 @@ Fastest, but very precise.
 
 #### 4CS - Classic
 
-`Sprintjump - buffered float - dash - bind - buffered float`
+`Sprintjump -> buffered float -> dash -> bind -> buffered float`
 
 #### 4CS - Bind Dash Refresh
 
-...
-
-If using this skip, you may want to gather soul using this hidden room before the boss, unless using it as a backup to Bindless.
-
-...
+`Sprintjump -> `
 
 ### Fourth Chorus Quick Kill
 
 Break the explosive nodes above Fourth Chorus - they remain active throughout the fight.
+
+### Fourth Chorus Skip Skip
+
+> [!WARNING]
+> Not currently allowed in NMG; this item is subject to an upcoming vote.
+
+> [!IMPORTANT]
+> Frame rate dependant! Uncap for best results.
+
+> Hand in Flexile Spines quest -> Press pause immediately after finishing the dialogue
+
+Avoids the hardsave when obtaining Drifter's Cloak, allowing you to save&quit to a bench before Fourth Chorus while keeping Drifter's Cloak.
 
 ### Beastfly Skip
 
@@ -56,6 +66,20 @@ Break the explosive nodes above Fourth Chorus - they remain active throughout th
 ### Sister Splinter Skip
 
 ...
+
+### Trobbio Skip - Silkspear Storage
+
+> [!CAUTION]
+> Not allowed in NMG!
+
+Get hit by a 'hard' hazard on a specific frame of the Silkspear animation. Walk _(todo: required?)_ to the block & stand around x=46.00, then cast again. Block gets hit the wrong way.
+
+### Trobbio Skip - Rune Rage
+
+> [!WARNING]
+> Not currently allowed in NMG; this item is up for reconsideration.
+
+Cast Rune Rage within a narrow window, such that there is line of sight between the block and ceiling. The hitboxes spawn on the other side of the block, pushing it towards you.
 
 ## Tech
 
@@ -100,6 +124,12 @@ Causes skills like Silk Spear to come out up to 0.2s earlier.
 
 Buffering a dash input allows you to dash even if you have exhausted your midair dash.
 
+### Voltvessel Drill Pogos
+
+> Throw Voltvessels > Use Delver's Drill above them
+
+Delver's Drill allows you to pogo off your own Voltvessels. You can upslash the Voltvessel before it detonates to reposition it favourably.
+
 ### Float Sprint
 
 > [!CAUTION]
@@ -116,12 +146,12 @@ Allows you to airdash without sprint.
 
 Inputting wings at a specific time after pogoing, dependent on crest, gives 2 wings refreshes instead of one.
 
-### Silkspear Storage Trobbio Skip
+### Voltvessel Wall Breaks
 
-> [!CAUTION]
-> Not allowed in NMG!
+> [!WARNING]
+> Not currently allowed in NMG; this is due for reconsideration.
 
-Get hit by a 'hard' hazard on a specific frame of the Silkspear animation. Walk _(todo: required?)_ to the block & stand around x=46.00, then cast again. Block gets hit the wrong way.
+The damage from Voltvessels can hit the backside of one-way breakable walls.
 
 <!-- TODO: example + extract silkspear storage to tech -->
 
