@@ -73,7 +73,7 @@ Regardless, it needs rewriting for Silksong.
 
 - The HUD must not be disabled.
 - Using in-game Vsync to limit framerate is allowed so long as the target monitor's refresh rate remains consistent during the run.
-- If either either Vsync or Frame Rate Cap are toggled during the run, you must have a clearly visible FPS display in your recording.
+- If you change either the VSync or Frame Rate Cap setting during the run, you must have a clearly visible FPS display in your recording.
 - You may not switch game versions during the run.
 
 <!-- TODO: Circle back on framerate shenanigans -->
