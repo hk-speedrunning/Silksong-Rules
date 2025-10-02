@@ -161,9 +161,9 @@ The damage from Voltvessels can hit the backside of one-way breakable walls.
 
 The Mist is intended to be navigated by playing Needolin to butterflies, which show the correct exit to proceed through. We can use various aspects of the Mist's progression to our advantage; see [this doc](https://docs.google.com/document/d/1wGYxE_mDfZ_Qtbs6cvcTZggTFPYTBJ9Rijno0VZkNdA/view) for more information.
 
-### Cogworks Dreamer
+### Architect's Puzzle
 
-To solve the Cogworks dreamer puzzle, hit the segments the corresponding number of times;
+To solve the Architect's puzzle at the top of Cogwork Core, hit the segments the corresponding number of times;
 
 ```
 1 3 3 3
