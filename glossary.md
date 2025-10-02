@@ -99,7 +99,7 @@ Removes end lag from the Hunter's Crest pogo, allowing moving early.
 
 #### Wavedashes
 
-> Sprint -> Jump -> immediately pogo endlag cancel -> Sprint. Repeat
+> Sprint -> Jump -> Buffer Sprint before landing. Repeat
 
 ### Beast Boost
 
