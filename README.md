@@ -2,6 +2,8 @@
 
 Welcome! This repository stores the rulesets for Hollow Knight: Silksong, as well as a setup guide & skip/tech glossary.
 
+Please also see our [Resources Repository](<https://github.com/hk-speedrunning/Silksong-Resources/blob/main/README.md>) for setup guides & other info.
+
 ---
 
 - ### [General Rules](/game_rules.md)
