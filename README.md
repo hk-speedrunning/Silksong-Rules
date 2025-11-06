@@ -10,7 +10,9 @@ Please also see our [Resources Repository](<https://github.com/hk-speedrunning/S
 
     Includes the [Video Guidelines](/video_guidelines.md).
 
-- ### [No Major Glitches Rules](nmg_rules.md)
+- ### [No Major Glitches Rules](/nmg_rules.md)
+
+- ### [All Bosses Requirements](/all_bosses.md)
 
 - ### [Setup Guides](/setup.md)
 
