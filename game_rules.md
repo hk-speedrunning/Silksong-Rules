@@ -65,7 +65,7 @@ Regardless, it needs rewriting for Silksong.
 
 ### Game modifications
 
-- Game modifications, including BepInEx, are banned. See [this guide](/setup.md#launching-unmodded-for-runs-steam) on how to disable BepInEx.
+- Game modifications, including BepInEx, are banned. See [this guide](https://github.com/hk-speedrunning/Silksong-Resources/blob/main/setup.md#launching-unmodded-for-runs-steam) on how to disable BepInEx.
 
 <!-- TODO: Minisavestates & other legal modifications, once they exist. -->
 

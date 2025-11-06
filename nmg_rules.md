@@ -11,7 +11,6 @@ Any accidentally performed major glitch that does not save time may be allowed b
 - [Bind Dash Refresh](/glossary.md#bind-dash-refresh)
 - [Tool Pogos (Drill/Snare w/ Voltvessels & others)](/glossary.md#voltvessel-drill-pogos)
 - Lever Skips (including hitting chests through walls)
-<!-- TODO: Voltvessel Snare Pogos -->
 
 ## Banned Glitches
 
