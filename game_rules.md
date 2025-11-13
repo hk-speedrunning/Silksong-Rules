@@ -65,12 +65,13 @@ Regardless, it needs rewriting for Silksong.
 
 ### Game modifications
 
-- Game modifications, including BepInEx, are banned. See [this guide](/setup.md#launching-unmodded-for-runs-steam) on how to disable BepInEx.
+- Game modifications, including BepInEx, are banned. See [this guide](https://github.com/hk-speedrunning/Silksong-Resources/blob/main/setup.md#launching-unmodded-for-runs-steam) on how to disable BepInEx.
 
 <!-- TODO: Minisavestates & other legal modifications, once they exist. -->
 
 ### Game Settings
 
+- Resolutions with an aspect ratio wider than 2:1 are not allowed. You should capture the entire game window to make verification easier.
 - The HUD must not be disabled.
 - Using in-game Vsync to limit framerate is allowed so long as the target monitor's refresh rate remains consistent during the run.
 - If you change either the VSync or Frame Rate Cap setting during the run, you must have a clearly visible FPS display in your recording.
