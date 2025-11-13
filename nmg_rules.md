@@ -9,18 +9,15 @@ Any accidentally performed major glitch that does not save time may be allowed b
 - [Pogo Endlag Cancels](/glossary.md#pogo-endlag-cancel)
 - [Beast Boosts](/glossary.md#beast-boost)
 - [Bind Dash Refresh](/glossary.md#bind-dash-refresh)
-  - NB: this will revisited on at a later time, once we understand the extent of its utility.
-- [Voltvessel Drill Pogos](/glossary.md#voltvessel-drill-pogos)
-<!-- TODO: Voltvessel Snare Pogos -->
+- [Tool Pogos (Drill/Snare w/ Voltvessels & others)](/glossary.md#voltvessel-drill-pogos)
+- Lever Skips (including hitting chests through walls)
 
 ## Banned Glitches
 
-- [Voltvessel Wall Breaks](/glossary.md#voltvessel-wall-breaks)
-  - NB: This will be revisited at a later time.
+- Deep Docks Bridge Hazard Respawn
+- [Voltvessel One-way Wallbreak @ Bilewater->Ducts shortcut](/glossary.md#voltvessel-wall-breaks)
 - [Fourth Chorus Skip Skip](/glossary.md#fourth-chorus-skip-skip)
-  - NB: This will be revisited at a later time.
-- [Trobbio Skip using Rune Rage](/glossary.md#trobbio-skip---rune-rage)
-  - NB: This may be revisited at a later time.
+- [Trobbio Skips](/glossary.md#trobbio-skip---rune-rage)
 - [Triple Jump](/glossary.md#triple-jump)
   - If accidental, a 2s penalty may be applied instead of rejection.
 - Scuttlebrace Jump Reset
