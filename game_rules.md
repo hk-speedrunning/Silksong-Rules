@@ -65,9 +65,10 @@ Regardless, it needs rewriting for Silksong.
 
 ### Game modifications
 
-- Game modifications, including BepInEx, are banned. See [this guide](https://github.com/hk-speedrunning/Silksong-Resources/blob/main/setup.md#launching-unmodded-for-runs-steam) on how to disable BepInEx.
-
-<!-- TODO: Minisavestates & other legal modifications, once they exist. -->
+- Game modifications **except the HKSRC Speed Patch**, including BepInEx & all plugins from Nexus & Thunderstore, are banned. See [this guide](https://github.com/hk-speedrunning/Silksong-Resources/blob/main/setup.md#launching-unmodded-for-runs-steam) on how to disable BepInEx.
+- Runs may be done using the HKSRC Speed Patch, which can be configured for different runs.
+  - NMG runs may enable **CourierRNGFix (CRNG)**.
+  - Glitched runs may enable the above & **DowndashTransitionFix (DDTF)**.
 
 ### Game Settings
 

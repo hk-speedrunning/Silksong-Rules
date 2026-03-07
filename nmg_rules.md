@@ -10,10 +10,12 @@ Any accidentally performed major glitch that does not save time may be allowed b
 - [Beast Boosts](/glossary.md#beast-boost)
 - [Bind Dash Refresh](/glossary.md#bind-dash-refresh)
 - [Tool Pogos (Drill/Snare w/ Voltvessels & others)](/glossary.md#voltvessel-drill-pogos)
+  - Including Pin Pogos (_excluding_ pogoing infinitely spinning pins)
 - Lever Skips (including hitting chests through walls)
 
 ## Banned Glitches
 
+- Walljump Storage
 - Deep Docks Bridge Hazard Respawn
 - [Voltvessel One-way Wallbreak @ Bilewater->Ducts shortcut](/glossary.md#voltvessel-wall-breaks)
 - [Fourth Chorus Skip Skip](/glossary.md#fourth-chorus-skip-skip)
