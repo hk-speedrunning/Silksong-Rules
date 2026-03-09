@@ -12,10 +12,13 @@ Any accidentally performed major glitch that does not save time may be allowed b
 - [Tool Pogos (Drill/Snare w/ Voltvessels & others)](/glossary.md#voltvessel-drill-pogos)
   - Including Pin Pogos (_excluding_ pogoing infinitely spinning pins)
 - Lever Skips (including hitting chests through walls)
+- Queued Walljump Interrupts, including when Queued Walljump Interrupt Storage is incidentally gained.
 
 ## Banned Glitches
 
-- Walljump Storage
+- Queued Walljump Interrupt Storage, when either:
+  - The storage is prolonged through other movement, such as sprint or clawline.
+  - The stored interrupt activates on NonSlider geometry.
 - Deep Docks Bridge Hazard Respawn
 - [Voltvessel One-way Wallbreak @ Bilewater->Ducts shortcut](/glossary.md#voltvessel-wall-breaks)
 - [Fourth Chorus Skip Skip](/glossary.md#fourth-chorus-skip-skip)
