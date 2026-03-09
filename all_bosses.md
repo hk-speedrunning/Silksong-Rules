@@ -87,7 +87,7 @@ _**All bosses not listed below can be considered defeated on the final hit.**_
 
 ### Others
 
-- Widow: Completing the Needolin dream cutscene
+- Widow: Obtaining Needolin
 - First Sinner: Obtaining Rune Rage
 - Grand Mother Silk: Ending cutscene start
 - Bell Eater: Obtaining Beastling Call
