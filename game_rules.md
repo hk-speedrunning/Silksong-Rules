@@ -22,17 +22,16 @@
 
 <!-- TODO: may choose to circle back to this based on future runs. -->
 
-Runs that enter Act 3 may take the following number of breaks:
-
-- 2x 10 minute breaks in the first 3 hours.
-  - Breaks may be combined; you can take a single 20 minute break instead.
+- After your first 30 minutes of gameplay, you may take a 10 minute break.
+- Additionally, for every hour of run length, you may take a 10 minute break.
+- Breaks may be combined; for example, taking a 20 minute break after playing for 1 hour.
 - Unlimited (within reason) breaks after 3 hours.
+- Breaks **must** be timestamped in the description of your run.
 
 Breaks must be taken as follows:
 
 - Breaks must be taken on the File Select screen on the menu:
-  - Pause the timer after you have hit the button to open the file select menu.
-  - To end the break, select a file then hit unpause.
+  - The timer should pause upon opening the file select menu, and continue after loading into your selected your file.
 - Verifiers may reject your run if they determine it to be abusing the break system.
 - The recording must be left on the file select screen - switching to a different scene will result in a rejection.
 <!-- TODO: move to Verifier Guide
@@ -58,6 +57,8 @@ Regardless, it needs rewriting for Silksong.
 
 - Entering submenus for the sole purpose of pausing the timer is not allowed.
 - Force exiting the game (Alt-F4) is only allowed when game menus are permanently inaccessible.
+- Additionally glitched runs are allowed to quitout on failed cutscene skip attempts.
+- Verifiers may reject your run if they determine it to be abusing the gameplay rules by **purposefully** hardlocking.
 - Inducing lag with Print Screen, moving the game window or any other method is not allowed.
 <!-- TODO: IL rule once relevant -->
 
@@ -75,7 +76,7 @@ Regardless, it needs rewriting for Silksong.
 - Resolutions with an aspect ratio wider than 2:1 are not allowed. You should capture the entire game window to make verification easier.
 - The HUD must not be disabled.
 - Using in-game Vsync to limit framerate is allowed so long as the target monitor's refresh rate remains consistent during the run.
-- If you change either the VSync or Frame Rate Cap setting during the run, you must have a clearly visible FPS display in your recording.
+- If you change the VSync setting either during or before your run, you must have a clearly visible FPS display in your recording.
 - You may not switch game versions during the run.
 
 <!-- TODO: Circle back on framerate shenanigans -->
