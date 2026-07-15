@@ -57,7 +57,7 @@ Regardless, it needs rewriting for Silksong.
 
 - Entering submenus for the sole purpose of pausing the timer is not allowed.
 - Force exiting the game (Alt-F4) is only allowed when game menus are permanently inaccessible.
-- Additionally glitched runs are allowed to quitout on failed cutscene skip attempts.
+- Additionally glitched runs are allowed to quitout on failed cutscene skip attempts, during Main Menu Storage setup.
 - Verifiers may reject your run if they determine it to be abusing the gameplay rules by **purposefully** hardlocking.
 - Inducing lag with Print Screen, moving the game window or any other method is not allowed.
 <!-- TODO: IL rule once relevant -->
