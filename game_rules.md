@@ -39,19 +39,12 @@ Breaks must be taken as follows:
 - Pausing the timer incorrectly will not result in a rejection, but a penalty of 0.3s or more will be applied to compensate for time saved.
 -->
 
-<!-- 
-TODO: This is an edge case ruling from HK, it does not need to be in our starting ruleset. I also don't know how much activity we had from 2p1c?
-
-Regardless, it needs rewriting for Silksong.
-
 ### Special Cases
 
 - 2 player 1 controller (2p1c) speedruns may be submitted to any of the leaderboards under the following guidelines:
   - The run must be submitted under a joint speedrun.com account. The run description must identify the individual runners.
   - The submission must include video evidence of the shared use of the input device. The input device need not be any specific type of controller, provided inputs are shared according to guidelines.
   - The inputs must be shared as follows: one player has use of the 4 directional inputs and no more than two additional action buttons, which are not to include jump or nail swing. The other player has use of all other actions. The use of inventory or pause may be shared.
-
--->
 
 ## Gameplay Rules
 
