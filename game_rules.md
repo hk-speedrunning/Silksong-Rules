@@ -21,17 +21,17 @@
 ### Breaks
 
 <!-- TODO: may choose to circle back to this based on future runs. -->
-
-- After your first 30 minutes of gameplay, you may take a 10 minute break.
-- Additionally, for every hour of run length, you may take a 10 minute break.
-- Breaks may be combined; for example, taking a 20 minute break after playing for 1 hour.
-- Unlimited (within reason) breaks after 3 hours.
-- Breaks **must** be timestamped in the description of your run.
+- You may take short (<5min) breaks on the File Select screen, at any point.
+- You may take a 10 minute break per hour of runtime - you must timestamp these in your run description.
+- These breaks can be combined & taken at any time as long as the final time exceeds the requirement. The “final time" refers to RTA Gameplay time, i.e. not including your breaks already taken.
+- Breaks are UNLIMITED (within reason) for runs reaching 3 hours.
+- Long breaks (5mins or greater) must be timestamped in the run description.
 
 Breaks must be taken as follows:
 
 - Breaks must be taken on the File Select screen on the menu:
-  - The timer should pause upon opening the file select menu, and continue after loading into your selected your file.
+  - For NMG runs the timer should pause automatically for you on all main menu screens, including on the file select screen.
+  - Glitched runs should not have any pausing in the main menu screens, apart from specifically manually pausing the timer, to take a break on the file select screen.
 - Verifiers may reject your run if they determine it to be abusing the break system.
 - The recording must be left on the file select screen - switching to a different scene will result in a rejection.
 <!-- TODO: move to Verifier Guide
@@ -60,9 +60,13 @@ Breaks must be taken as follows:
 ### Game modifications
 
 - Game modifications **except the HKSRC Speed Patch**, including BepInEx & all plugins from Nexus & Thunderstore, are banned. See [this guide](https://github.com/hk-speedrunning/Silksong-Resources/blob/main/setup.md#launching-unmodded-for-runs-steam) on how to disable BepInEx.
-- Runs may be done using the HKSRC Speed Patch, which can be configured for different runs.
+- Runs may be done using the [HKSRC Speed Patch](https://github.com/hk-speedrunning/Silksong.SpeedPatch), which can be configured for different runs.
   - NMG runs may enable **CourierRNGFix (CRNG)**.
   - Glitched runs may enable the above & **DowndashTransitionFix (DDTF)**.
+  <!-- 
+  - Cycle Normaliser
+  - Text Masher
+  When released -->
 
 ### Game Settings
 
