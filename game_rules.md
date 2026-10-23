@@ -75,6 +75,7 @@ Breaks must be taken as follows:
 - Using in-game Vsync to limit framerate is allowed so long as the target monitor's refresh rate remains consistent during the run.
 - If you change the VSync setting either during or before your run, you must have a clearly visible FPS display in your recording.
 - You may not switch game versions during the run.
+- Using the in-game 30fps cap is not allowed. Your fps cap should not be set below 50fps in any way.
 
 <!-- TODO: Circle back on framerate shenanigans -->
 
